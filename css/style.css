@@ -1,0 +1,25 @@
+canvas {
+    font-size: 14px;
+    border: 1px solid black;
+    display: block;
+    float: left;
+}
+
+#container {
+    margin: auto;
+    width: 934px;
+}
+
+#container:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+#game {
+    margin-right: 10px;
+}
+
+#stats {
+    margin-bottom: 10px;
+}
