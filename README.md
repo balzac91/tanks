@@ -1,2 +1,2 @@
-# tanks
+# Tanks
 Very simple game mechanics
